@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_pet.py:115 Response Status Code: 404
+[32mINFO    [0m root:test_pet.py:118 Response Text:

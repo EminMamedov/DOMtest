@@ -1,0 +1,2 @@
+[32mINFO    [0m root:conftest.py:15 {'id': 898, 'category': {'id': 0, 'name': 'emin_test'}, 'name': 'test_name', 'photoUrls': ['test_ph'], 'tags': [{'id': 0, 'name': 'test_name_t'}], 'status': 'available'}
+[32mINFO    [0m root:test_pet.py:51 {'id': 898, 'category': {'id': 0, 'name': 'emin_test'}, 'name': 'test_name', 'photoUrls': ['test_ph'], 'tags': [{'id': 0, 'name': 'test_name_t'}], 'status': 'available'}

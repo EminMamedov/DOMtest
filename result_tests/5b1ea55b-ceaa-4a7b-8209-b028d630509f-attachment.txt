@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_pet.py:17 {'id': 89845, 'category': {'id': 0, 'name': 'emin_test'}, 'name': 'test_name', 'photoUrls': ['test_ph'], 'tags': [{'id': 0, 'name': 'test_name_t'}], 'status': 'available'}

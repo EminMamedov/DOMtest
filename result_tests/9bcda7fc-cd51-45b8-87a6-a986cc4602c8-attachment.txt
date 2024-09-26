@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_pet.py:30 Response: {'id': 454, 'category': {'id': 0}, 'photoUrls': [], 'tags': [{'id': 0}]}
+[31m[1mERROR   [0m root:test_pet.py:35 AssertionError: Expected status code 409 but got 200
+assert 200 == 409
+ +  where 200 = <Response [200]>.status_code
+[31m[1mERROR   [0m root:test_pet.py:36 Test failed due to assert failure

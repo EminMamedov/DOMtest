@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_pet.py:107 {'code': 200, 'type': 'unknown', 'message': '89845'}
